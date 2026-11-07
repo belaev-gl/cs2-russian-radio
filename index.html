@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CS2 Russian Radio — демо озвучки</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; background: #0d1117; color: #c9d1d9; font: 16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 1.7rem; color: #e6edf3; margin-bottom: 4px; }
+  .sub { color: #8b949e; margin-bottom: 24px; }
+  .badge { display: inline-block; background: #1f6feb33; border: 1px solid #388bfd66; color: #79b8ff; border-radius: 999px; padding: 3px 12px; font-size: .85rem; margin-right: 8px; }
+  header .badge { margin-top: 14px; }
+  section h2 { font-size: 1.15rem; color: #e6edf3; border-bottom: 1px solid #21262d; padding-bottom: 6px; margin-top: 40px; }
+  .item { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 14px 16px; margin: 14px 0; }
+  .item b { color: #e6edf3; }
+  .tag { color: #8b949e; font-size: .88rem; }
+  audio { width: 100%; margin-top: 10px; height: 40px; }
+  .cta { background: linear-gradient(135deg, #1d2b57, #0d1117); border: 1px solid #30363d; border-radius: 14px; padding: 20px; margin: 26px 0; }
+  .cta a.btn { display: inline-block; background: #238636; color: #fff; text-decoration: none; font-weight: 600; padding: 10px 18px; border-radius: 8px; margin-top: 10px; }
+  .cta a.btn:hover { background: #2ea043; }
+  footer { color: #8b949e; font-size: .85rem; margin-top: 48px; border-top: 1px solid #21262d; padding-top: 16px; }
+  a { color: #58a6ff; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>CS2 Russian Radio</h1>
+    <div class="sub">Полная русская озвучка радио Cities: Skylines II — 283 клипа, ~124 минуты</div>
+    <span class="badge">Игра: Cities: Skylines II 1.5.7f1</span><span class="badge">BepInEx 6 (Unity Mono)</span><span class="badge">Windows</span>
+  </header>
+
+  <div class="cta">
+    Хочешь услышать это в игре? Нужна игра 1.5.7f1 и BepInEx 6.
+    <a class="btn" href="https://github.com/belaev-gl/cs2-russian-radio#установка--install">Установка на GitHub</a>
+    <a class="btn" href="https://github.com/belaev-gl/cs2-russian-radio/releases/latest" style="background:#1f6feb">Скачать релиз</a>
+  </div>
+
+  <section>
+    <h2>Демо-подборка (66 сек)</h2>
+    <div class="item">
+      <b>Демо-монтаж</b> <span class="tag">погода → alert → PSA → ведущие, все станции</span>
+      <audio controls preload="none" src="samples/demo-montage.mp3"></audio>
+    </div>
+  </section>
+
+  <section>
+    <h2>The Second Moon — новости и службы</h2>
+    <div class="item">
+      <b>Погода</b> <span class="tag">женский голос Kore · weather</span>
+      <audio controls preload="none" src="samples/weather-female-secondmoon-01.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>Экстренное оповещение</b> <span class="tag">женский голос Kore · alert</span>
+      <audio controls preload="none" src="samples/alert-female-secondmoon-01.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>PSA</b> <span class="tag">мужской голос Puck · PSA</span>
+      <audio controls preload="none" src="samples/psa-male-secondmoon-03.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>Короткая подводка</b> <span class="tag">женский голос Kore · short blurb</span>
+      <audio controls preload="none" src="samples/short-blurb-secondmoon-01.ogg"></audio>
+    </div>
+  </section>
+
+  <section>
+    <h2>Ведущие станций</h2>
+    <div class="item">
+      <b>Liz Peterson</b> <span class="tag">Atmospheric Piano · женский голос Kore</span>
+      <audio controls preload="none" src="samples/host-female-atmosphericpiano-vo1.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>Cantina Forester</b> <span class="tag">Cloud Lounge FM · женский голос Kore</span>
+      <audio controls preload="none" src="samples/host-female-cloudlounge-vo1.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>Pete Cooper</b> <span class="tag">Smooth Vibe FM · мужской голос Puck</span>
+      <audio controls preload="none" src="samples/host-male-smoothvibe-vo12.ogg"></audio>
+    </div>
+    <div class="item">
+      <b>Professor Funk</b> <span class="tag">Feelgood Funk · мужской голос Puck</span>
+      <audio controls preload="none" src="samples/host-male-feelgoodfunk-vo1.ogg"></audio>
+    </div>
+  </section>
+
+  <footer>
+    Неофициальный AI-мод. Не связан с Paradox Interactive или Colossal Order.
+    Нужна лицензионная копия Cities: Skylines II. Требуется BepInEx 6 (Unity Mono, win-x64).
+    Игра проверена на версии 1.5.7f1. <a href="https://github.com/belaev-gl/cs2-russian-radio">GitHub-репозиторий</a>
+    · <a href="https://github.com/belaev-gl/cs2-russian-radio/blob/main/EULA-RU.txt">EULA</a>
+  </footer>
+</main>
+</body>
+</html>
