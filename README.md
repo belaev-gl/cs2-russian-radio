@@ -10,17 +10,17 @@
 
 **🔊 [Общая демо-подборка, 66 сек](samples/demo-montage.mp3)** — все станции в одном файле.
 
-| Файл | Тип | Станция |
+| Файл | Тип · голос | Станция |
 |---|---|---|
 | [demo-montage.mp3](samples/demo-montage.mp3) | демо (погода → alert → PSA → болталки) | все |
-| [weather-female-secondmoon-01.ogg](samples/weather-female-secondmoon-01.ogg) | погода | The Second Moon |
-| [alert-female-secondmoon-01.ogg](samples/alert-female-secondmoon-01.ogg) | экстренное оповещение | The Second Moon |
-| [psa-male-secondmoon-03.ogg](samples/psa-male-secondmoon-03.ogg) | PSA | The Second Moon |
-| [short-blurb-secondmoon-01.ogg](samples/short-blurb-secondmoon-01.ogg) | короткая подводка | The Second Moon |
-| [host-female-atmosphericpiano-vo1.ogg](samples/host-female-atmosphericpiano-vo1.ogg) | ведущая | Atmospheric Piano |
-| [host-female-cloudlounge-vo1.ogg](samples/host-female-cloudlounge-vo1.ogg) | ведущая | Cloud Lounge FM |
-| [host-male-smoothvibe-vo12.ogg](samples/host-male-smoothvibe-vo12.ogg) | ведущий | Smooth Vibe FM |
-| [host-male-feelgoodfunk-vo1.ogg](samples/host-male-feelgoodfunk-vo1.ogg) | ведущий | Feelgood Funk |
+| [weather-male-secondmoon-01.ogg](samples/weather-male-secondmoon-01.ogg) | погода · Puck (муж.) | The Second Moon |
+| [alert-female-secondmoon-01.ogg](samples/alert-female-secondmoon-01.ogg) | экстренное оповещение · Kore (жен.) | The Second Moon |
+| [psa-male-secondmoon-03.ogg](samples/psa-male-secondmoon-03.ogg) | PSA · Puck (муж.) | The Second Moon |
+| [short-blurb-secondmoon-01.ogg](samples/short-blurb-secondmoon-01.ogg) | короткая подводка · Puck (муж.) | The Second Moon |
+| [host-female-atmosphericpiano-vo1.ogg](samples/host-female-atmosphericpiano-vo1.ogg) | ведущая · Kore | Atmospheric Piano |
+| [host-female-cloudlounge-vo1.ogg](samples/host-female-cloudlounge-vo1.ogg) | ведущая · Kore | Cloud Lounge FM |
+| [host-male-smoothvibe-vo12.ogg](samples/host-male-smoothvibe-vo12.ogg) | ведущий · Puck | Smooth Vibe FM |
+| [host-male-feelgoodfunk-vo1.ogg](samples/host-male-feelgoodfunk-vo1.ogg) | ведущий · Puck | Feelgood Funk |
 
 ## Как это сделано
 
