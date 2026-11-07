@@ -1,0 +1,52 @@
+# Third-party notices
+
+## BepInEx 6
+
+- Project: BepInEx
+- License: LGPL-2.1
+- Site: https://github.com/BepInEx/BepInEx
+- Not included in the paid package. The user installs it separately.
+- If you bundle BepInEx, include the LGPL license and comply with its terms.
+
+## HarmonyX / 0Harmony
+
+- Project: HarmonyX
+- License: MIT
+- Site: https://github.com/BepInEx/HarmonyX
+- Included as part of BepInEx; not redistributed by this package.
+
+## Google Gemini TTS
+
+- Voice generation: Google Gemini 3.8 Flash / Flash Lite TTS via Polza.ai.
+- Use of generated audio is subject to Google/Polza terms and the purchased plan.
+- The seller must verify commercial-use/resale rights.
+
+## DeepSeek / Polza.ai
+
+- Translation: DeepSeek V4.1 Flash via Polza.ai.
+- Subject to Polza.ai and DeepSeek terms.
+
+## Demucs
+
+- Project: Demucs (Meta Research)
+- License: MIT
+- Used as a local tool to create instrumental/vocal stems.
+- Not distributed as part of the package.
+
+## ffmpeg / libsndfile
+
+- Used as local tools for encoding and decoding.
+- Not distributed as part of the package (unless explicitly bundled; then
+  comply with LGPL).
+
+## Cities: Skylines II
+
+- Game, characters, scripts, original music and trademarks:
+  Paradox Interactive / Colossal Order.
+- This is an unofficial mod. No affiliation or endorsement.
+- A legitimate copy of the game is required.
+
+## AI disclosure
+
+The voiceover is AI-generated. Voices are synthetic presets; no real voice
+actor was cloned.

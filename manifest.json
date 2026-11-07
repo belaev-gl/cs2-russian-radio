@@ -1,0 +1,15 @@
+{
+  "name": "CS2 Russian Radio",
+  "version": "1.0.0",
+  "type": "VoicePack",
+  "plugin_guid": "cs2.russian.radio",
+  "files": 283,
+  "audio_mb": 77.0,
+  "no_game_music": true,
+  "rights_required_for_sale": false,
+  "requires": [
+    "Cities Skylines II 1.5.7f1",
+    "BepInEx 6 Unity Mono win-x64"
+  ],
+  "notes": "Unofficial AI voiceover mod. Not affiliated with Paradox Interactive or Colossal Order."
+}
